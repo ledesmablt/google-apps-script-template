@@ -1,0 +1,7 @@
+{
+  "target": "ES2019",
+  "compilerOptions": {
+    "lib": ["esnext"],
+    "experimentalDecorators": true
+  }
+}
